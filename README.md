@@ -11,10 +11,3 @@ I am a front-end developer of web systems with HTML, CSS and JavaScript. I curre
 ---
 > ### We can only see a short distance ahead, but we can see plenty there that needs to be done. 
 > (Alan Turing)
-
-
---- 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=fabiornobrega&show_icons=true&locale=en&layout=compact&theme=dracula)
-
-
-![](https://github-readme-stats.vercel.app/api?username=fabiornobrega&show_icons=true&locale=en&theme=dracula)
